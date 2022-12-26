@@ -1,0 +1,124 @@
+'C#':
+  beautifiers:
+    - Pretty Diff
+CSS:
+  beautifiers:
+    - Prettier
+    - Pretty Diff
+    - JS-Beautify
+    - CSScomb
+  indent_size: 2
+ColdFusion:
+  beautifiers:
+    - Pretty Diff
+EJS:
+  beautifiers:
+    - Pretty Diff
+    - JS-Beautify
+GraphQL:
+  beautifiers:
+    - Prettier
+HTML:
+  beautifiers:
+    - Pretty Diff
+    - JS-Beautify
+HTML+ERB:
+  beautifiers:
+    - Pretty Diff
+Handlebars:
+  beautifiers:
+    - Pretty Diff
+    - JS-Beautify
+JSON:
+  beautifiers:
+    - Prettier
+    - Pretty Diff
+    - JS-Beautify
+JSON5:
+  beautifiers:
+    - Prettier
+    - Pretty Diff
+    - JS-Beautify
+Java:
+  beautifiers:
+    - Pretty Diff
+JSX:
+  beautifiers:
+    - Prettier
+    - Pretty Diff
+    - JS-Beautify
+    - ESLint
+JavaScript:
+  beautifiers:
+    - Prettier
+    - Pretty Diff
+    - JS-Beautify
+    - ESLint
+Less:
+  beautifiers:
+    - Prettier
+    - Pretty Diff
+Liquid:
+  beautifiers:
+    - JS-Beautify
+Markdown:
+  beautifiers:
+    - Prettier
+Mustache:
+  beautifiers:
+    - JS-Beautify
+PHP:
+  beautifiers:
+    - PHP-CS-Fixer
+    - PHP_CodeSniffer
+Python:
+  beautifiers:
+    - Black
+    - YAPF
+Riot:
+  beautifiers:
+    - Pretty Diff
+SCSS:
+  beautifiers:
+    - Prettier
+    - Pretty Diff
+    - CSScomb
+SQL:
+  beautifiers:
+    - sqlformat
+SVG:
+  beautifiers:
+    - Pretty Diff
+Sass:
+  beautifiers:
+    - CSScomb
+Spacebars:
+  beautifiers:
+    - Pretty Diff
+Swig:
+  beautifiers:
+    - Pretty Diff
+Titanium Style Sheets:
+  beautifiers:
+    - Pretty Diff
+Twig:
+  beautifiers:
+    - Pretty Diff
+TypeScript:
+  beautifiers:
+    - Prettier
+    - Pretty Diff
+    - TSLint
+Visualforce:
+  beautifiers:
+    - Pretty Diff
+Vue:
+  beautifiers:
+    - Prettier
+XML:
+  beautifiers:
+    - Pretty Diff
+    - JS-Beautify
+XTemplate:
+  beautifiers:
+    - Pretty Diff
